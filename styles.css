@@ -12,8 +12,8 @@ html {
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #bc6c44;
-    color: #333;
+    background-color: #c74200;
+    color: #ca8484;
     line-height: 1.6;
 }
 
@@ -27,7 +27,7 @@ body {
 /* HEADER */
 
 header {
-    background-color: #003b73;
+    background-color: #cb2424;
     color: white;
     padding: 35px 0;
 }
